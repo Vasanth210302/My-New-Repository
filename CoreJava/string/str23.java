@@ -1,0 +1,6 @@
+/* 
+ go to the documeentation and see the source code of 
+ 
+ stringbuffer and builder the methods are synchronized.
+
+ */
